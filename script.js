@@ -1,4 +1,4 @@
-// 1. Inicializar variables de cuentas de ingresos y gastos y mostrarlos
+// 1. Inicializar variables de cuentas de ingresos, gastos y mostrarlos
 var totalIngresos = [];
 var totalGastos = [];
 var sumaIngresos = 0;
