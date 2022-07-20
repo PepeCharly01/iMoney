@@ -1,2 +1,2 @@
 # iMoney
-app de finanzas y estados de cuenta
+Mi primer aplicación web con JavaScript
